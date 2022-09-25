@@ -214,5 +214,5 @@ while(cardsContainer.firstChild!=null)
 
 }
 
-// ⛔️ Set up the game. Do not edit below this line! ⛔️
+// Set up the game.
 setUpGame();
